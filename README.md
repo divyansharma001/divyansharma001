@@ -50,6 +50,6 @@
   <img width="3"/>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansharma001&show_icons=true&locale=en" alt="divyansharma001" /></p>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansharma001&" alt="divyansharma001" /></p>
