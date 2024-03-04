@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on my **Full Stack Projects**
 
-- 📫 How to reach me **divyanshsharma4507@gmail.com**
+- 📫 Reach me at **divyanshsharma4507@gmail.com**
 
 - ⚡ Fun fact **I can code 18-20 hours straight**
 
