@@ -52,6 +52,8 @@
   <img src='https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge' height='32' />
   <img width="3"/>
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansharma001&" alt="shushant-priyadarshi" /></p>
+
 
 </br>
 
