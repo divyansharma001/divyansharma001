@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansharma001&label=Profile%20views&color=0e75b6&style=flat" alt="divyansharma001" /> </p>
 
-- 🌱 I’m currently working on my **Full Stack Projects**
+- 🌱 I’m currently learning **Next.js & Typescript**
 
 - 📫 Reach me at **divyanshsharma4507@gmail.com**
 
