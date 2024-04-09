@@ -53,7 +53,7 @@
   <img width="3"/>
 </div>
 <hr>
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=divyansharma001&theme=merko" alt="GitHub Streak" /></a> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=divyansharma001&theme=merko" alt="GitHub Streak" /></a>
 </br>
 
 
