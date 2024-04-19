@@ -53,7 +53,9 @@
   <img width="3"/>
 </div>
 <hr>
+<div align="center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=divyansharma001&theme=merko" alt="GitHub Streak" /></a>
+</div>
 </br>
 
 
