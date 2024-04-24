@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 - 📫 How to reach me **divyanshsharma4507@gmail.com**
-- 🤔 My interests are with Web Development, AI/ML etc..;
+- 🤔 My interests are with Web Development, IOT etc..;
 - 💼 I’m pursuing a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWubqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
