@@ -21,7 +21,6 @@
 - 🤔 My interests are with Web Development, IOT etc..;
 - 💼 I’m pursuing a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWubqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
