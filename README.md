@@ -9,16 +9,24 @@
 </div>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansharma001&label=Profile%20views&color=0e75b6&style=flat" alt="divyansharma001" /> </p>
+<br>
+ <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🌱 I’m currently learning **Next.js & Typescript and DSA with Java**
 
-- 📫 Reach me at **divyanshsharma4507@gmail.com**
 
+
+
+- 🌱 I’m currently learning **Next.js and Typescript**
+- 📫 How to reach me **divyanshsharma4507@gmail.com**
+- 🤔 My interests are with Web Development, AI/ML etc..;
+- 💼 I’m pursuing a Bachelor's degree in Information Technology;
+- 💬 Ask me about anything, I am happy to help;
+- 📝 See my [Resume]([https://drive.google.com/file/d/1hLMiIHPW0lWubqRJWnFKZfnsfHl_ZwP/view?usp=sharing](https://drive.google.com/file/d/1kDjPnMNueDkf5doVnYG2q3k9uW4YoUO6/view)) to get more info.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divyansh-sharma-86260b1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-sharma-86260b1b1" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/harsh-mahajan-2345black/](https://www.linkedin.com/in/divyansh-sharma-86260b1b1)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="[https://www.linkedin.com/in/harsh-mahajan-2345black/](https://www.linkedin.com/in/divyansh-sharma-86260b1b1)" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
