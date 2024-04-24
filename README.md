@@ -58,7 +58,7 @@
 <br>
 <hr>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshMN2345&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=divyansharma001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 </br>
 
