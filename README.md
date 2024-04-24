@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/harsh-mahajan-2345black/" target="_blank">
+  <a href="https://www.linkedin.com/in/divyansh-sharma-86260b1b1" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn Profile" />
   </a>
 </p>
