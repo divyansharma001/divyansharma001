@@ -21,11 +21,15 @@
 - 🤔 My interests are with Web Development, AI/ML etc..;
 - 💼 I’m pursuing a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [Resume]([https://drive.google.com/file/d/1hLMiIHPW0lWubqRJWnFKZfnsfHl_ZwP/view?usp=sharing](https://drive.google.com/file/d/1kDjPnMNueDkf5doVnYG2q3k9uW4YoUO6/view)) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWubqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/harsh-mahajan-2345black/](https://www.linkedin.com/in/divyansh-sharma-86260b1b1)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="[https://www.linkedin.com/in/harsh-mahajan-2345black/](https://www.linkedin.com/in/divyansh-sharma-86260b1b1)" /></a>
+  <a href="https://www.linkedin.com/in/harsh-mahajan-2345black/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn Profile" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
