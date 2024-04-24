@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Divyansh+Sharma!;" />
 </h1>
