@@ -61,4 +61,6 @@
 </div>
 </br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansharma001&theme=tokyonight)
+
 
