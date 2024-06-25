@@ -17,10 +17,10 @@
 
 
 - 🌱 I’m currently **Building a Startup**.
-- 📫 How to reach me **divyanshsharma4507@gmail.com**
-- 🤔 My interests are with Web Development, IOT etc..;
-- 💼 I’m pursuing a Bachelor's degree in Information Technology;
-- 💬 Ask me about anything, I am happy to help;
+- 📫 Reach me at **divyanshsharma4507@gmail.com**
+- 🤔 Loves to talk about Tech and Philosophy;
+- 💼 Pursuing Bachelor's degree in Information Technology;
+- 💬 Loves to connect with people doing similar stuff;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
