@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently building a Startup.
+- 🌱 I’m currently **Building a Startup**.
 - 📫 How to reach me **divyanshsharma4507@gmail.com**
 - 🤔 My interests are with Web Development, IOT etc..;
 - 💼 I’m pursuing a Bachelor's degree in Information Technology;
