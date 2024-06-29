@@ -17,7 +17,7 @@
 
 
 - 🌱 I’m currently **Building a Startup**.
-- 📫 Reach me at **divyanshsharma4507@gmail.com**
+- 📫 Reach me at **connectwithdivyansharma@gmail.com**
 - 🤔 Loves to talk about Tech and Philosophy;
 - 💼 Pursuing Bachelor's degree in Information Technology;
 - 💬 Loves to connect with people doing similar stuff;
