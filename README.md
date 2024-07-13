@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/divyansh-sharma-86260b1b1" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn Profile" />
+    <img align="center" src="https://th.bing.com/th/id/OIP.eRagE4YQk-lG95uHUc0VRgAAAA?rs=1&pid=ImgDetMain" width="100" alt="LinkedIn Profile" />
   </a>
    <a href="https://twitter.com/Divyansharma001" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" width="100" alt="X Profile" />
