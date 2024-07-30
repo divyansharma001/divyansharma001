@@ -22,16 +22,6 @@
 - 💼 Pursuing Bachelor's degree in Information Technology;
 - 💬 Loves to connect with people doing similar stuff;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/divyansh-sharma-86260b1b1" target="_blank">
-    <img align="center" src="https://th.bing.com/th/id/OIP.i_bCw11-LKXOXvTmD5XmNQHaHa?rs=1&pid=ImgDetMain" width="100" alt="LinkedIn Profile" />
-  </a>
-   <a href="https://twitter.com/Divyansharma001" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" width="100" alt="X Profile" />
-</a>
-</p>
-
 
 
 
