@@ -20,7 +20,7 @@
 - 📫 Reach me at **connectwithdivyansharma@gmail.com**
 - 🤔 Loves to talk about Tech and Philosophy;
 - 💼 Pursuing Bachelor's degree in Information Technology;
-- 💬 Loves to connect with people doing similar stuff;
+- 💬 Interested in connecting with people doing similar stuff;
 
 
 
