@@ -17,5 +17,8 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansharma001&layout=compact&hide=css,scss,html&theme=tokyonight" alt="Top Languages" width="400"/>
+</div>
+
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=divyansharma001&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
