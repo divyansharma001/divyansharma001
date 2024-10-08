@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <h3>A Curious Developer from India</h3>
+    <h3>A Curious Developer from India </h3>
     <p>🌱 I’m currently <strong>Building a Startup</strong>.</p>
     <p>📫 Reach me at <strong>connectwithdivyansharma@gmail.com</strong></p>
     <p>🤔 Loves to talk about Tech and Philosophy</p>
