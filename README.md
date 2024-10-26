@@ -22,3 +22,5 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=divyansharma001&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
+
+[![An image of @divyansharma001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyansharma001)](https://holopin.io/@divyansharma001)
