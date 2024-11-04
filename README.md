@@ -11,7 +11,7 @@
     <p>🌱 I’m currently <strong>Building a Startup</strong>.</p>
     <p>📫 Reach me at <strong>connectwithdivyansharma@gmail.com</strong></p>
 <!--     <p>🤔 Loves to talk about Tech and Philosophy</p> -->
-    <p>💼 Up for collaborating in interesting projects.</p>
+    <p>💼 Up for collaborating in interesting projects and freelance work.</p>
 <!--     <p>💬 Interested in connecting with people doing similar stuff</p> -->
 </div>
 
