@@ -8,7 +8,7 @@
 
 <div align="center">
     <h3>A Developer from India </h3>
-    <p>🌱 <strong>Building ...</strong></p>
+    <p>🌱 <strong>Building ..</strong></p>
     <p>📫 Reach me at <strong>connectwithdivyansharma@gmail.com</strong></p>
 <!--     <p>🤔 Loves to talk about Tech and Philosophy</p> -->
     <p>💼 Up for collaborating in interesting projects and freelance work.</p>
