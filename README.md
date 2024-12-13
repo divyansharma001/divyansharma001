@@ -12,12 +12,15 @@
     <p>📫 Reach me at <strong>connectwithdivyansharma@gmail.com</strong></p>
 <!--     <p>🤔 Loves to talk about Tech and Philosophy</p> -->
     <p>💼 Up for collaborating in interesting projects and freelance work.</p>
+    <p><a href="https://pickled-bus-e0a.notion.site/My-2024-Builds-15ba07d09411801182daefdefb026fe3">My 2024 Builds</a></p>
 <!--     <p>💬 Interested in connecting with people doing similar stuff</p> -->
 </div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansharma001&layout=compact&hide=css,scss,html&theme=tokyonight" alt="Top Languages" width="400"/>
 </div>
+
+
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=divyansharma001&theme=radical" alt="GitHub Streak" width="400"/>
