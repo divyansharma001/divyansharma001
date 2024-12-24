@@ -7,7 +7,7 @@
 </div>
 
 <div align="center"
-    <h3> </h3>
+    <h3> ♨︎_♨︎ </h3>
     <p>🤖 <strong> Building Everyday </strong></p>
      <p>📫 Reach me at: <strong><a href="mailto:connectwithdivyansharma@gmail.com">connectwithdivyansharma@gmail.com</a></strong></p>
 <!--     <p>🤔 Loves to talk about Tech and Philosophy</p> -->
