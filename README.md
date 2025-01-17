@@ -16,7 +16,8 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansharma001&layout=compact&hide=css,scss,html&theme=tokyonight" alt="Top Languages" width="400"/>
+    <img src="https://api.githubtrends.io/user/svg/divyansharma001/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" width="400"/>
+   
 </div>
 
 <div align="center">
