@@ -12,7 +12,7 @@
     <p>📫 Need something done? <strong><a href="mailto:connectwithdivyansharma@gmail.com">Hit me up!</a></strong></p>
     <p>💼 Down for projects, hackathons, or freelance gigs!</p>
     <p>🍴 Check out what I’ve been cooking in <a href="https://pickled-bus-e0a.notion.site/My-2024-Builds-15ba07d09411801182daefdefb026fe3"><strong>2024</strong></a></p>
-    <p>👨‍💻 Wanna know more? <a href="https://drive.google.com/file/d/169INVWhYoTZ9NuveS2p_efHMKkDJqTfO/view"><strong>Here’s my CV</strong></a></p>
+<!--     <p>👨‍💻 Wanna know more? <a href="https://drive.google.com/file/d/169INVWhYoTZ9NuveS2p_efHMKkDJqTfO/view"><strong>Here’s my CV</strong></a></p> -->
 </div>
 
 <div align="center">
