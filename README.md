@@ -8,7 +8,7 @@
 
 <div align="center">
    <div align="center">
-    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26763%26project%3D%26in=0">
+    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26763%26project%3D%26in=0">
 </div>
     <p>🤖 <strong>Building cool stuff every day</strong></p>
     <p>📫 Need something done? <strong><a href="mailto:connectwithdivyansharma@gmail.com">Hit me up!</a></strong></p>
