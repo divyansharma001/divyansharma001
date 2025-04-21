@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-    <h3>♨︎ _ ♨︎</h3>
+   <div align="center">
+    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26763%26project%3D%26in=0">
+</div>
     <p>🤖 <strong>Building cool stuff every day</strong></p>
     <p>📫 Need something done? <strong><a href="mailto:connectwithdivyansharma@gmail.com">Hit me up!</a></strong></p>
     <p>💼 Down for projects, hackathons, or freelance gigs!</p>
@@ -23,5 +25,6 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=divyansharma001&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
+
 
 [![An image of @divyansharma001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyansharma001)](https://holopin.io/@divyansharma001)
